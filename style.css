@@ -1,0 +1,22 @@
+body{
+    background-image: linear-gradient(to right, #f78ca0 0%, #f9748f 19%, #fd868c 60%, #fe9a8b 100%);
+}
+.col-md-6{
+    margin-top: 150px !important;
+    background-image: linear-gradient(to right, #43e97b 0%, #38f9d7 100%);
+    border: 5px solid black;
+}
+input[type="button"]{
+    width: 100%;
+    background-color: yellow;
+    color: black;
+    font-weight: bolder;
+    border: 3px solid black;
+}
+input[type="text"]{
+    width: 100%;
+}
+h1{
+    font-weight: bolder !important;
+    margin-top: 15px;
+}
